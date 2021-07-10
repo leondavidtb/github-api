@@ -11,7 +11,7 @@ const ReposContainer = props => {
             <Title>Repositórios de {(props.name)?.split(' ')[0]}</Title>
             <ListOfReposContainer>
                 {(props?.repos).map(repo => (
-                    <Repo onClick={() => window.location.href(repo?.html_url)} key={repo?.id}>
+                    <Repo key={repo?.id}>
                         <span>{repo?.name}</span>
                         <p>{repo?.description}</p>
                     </Repo>
