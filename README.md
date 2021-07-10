@@ -1,4 +1,4 @@
-<h1 align="center">Github API Searcher 🎮</h1>
+<h1 align="center">Github API Searcher <img src="assets/GitHub.png" width="25"> </img></h1>
 
 <p >
   Aplicação simples desenvolvida para retornar dados públicos do Github de um determinado usuário. 
@@ -45,11 +45,32 @@ Inicie a aplicação
 $ yarn start
 ```
 
-## Licença:
+## Screenshots da aplicação
 
-<p>Este projeto está licenciado sob a licença MIT - consulte a página <a href="https://opensource.org/licenses/MIT" style=" font-size: 16px; " >LICENSE</a> para obter detalhes.</p>
+### Tela inicial
 
-</br>
+<p align="center"  >
+  <img src="assets/00.png" />
+</p>
+
+### Detalhes do usuário
+
+<p align="center"  >
+  <img src="assets/01.png" />
+</p>
+
+### Repositórios
+
+<p align="center"  >
+  <img src="assets/02.png" />
+</p>
+
+### Favoritos
+
+<p align="center"  >
+  <img src="assets/03.png" />
+</p>
+
 </br>
 
 <p align="center">Desenvolvido com ☕ por <a href="https://github.com/leondavidtb">Leonardo David </a>
