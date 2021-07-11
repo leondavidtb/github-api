@@ -1,7 +1,7 @@
 <h1 align="center">Github API Searcher <img src="assets/GitHub.png" width="25"> </img></h1>
 
 <p >
-  Aplicação simples desenvolvida para retornar dados públicos do Github de um determinado usuário. 
+  Aplicação desenvolvida para retornar dados públicos do Github de um determinado usuário. 
 </p>
 
 <h2> Tecnologias e bibliotecas utilizadas: </h2>
